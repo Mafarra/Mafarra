@@ -1,4 +1,4 @@
-[![MasterHead]https://www.google.com/url?sa=i&url=https%3A%2F%2Fmadduckcode.com%2Fblogs%2Fstep-up-your-flutter-skills-8-best-practices&psig=AOvVaw0x6kc2__2Ihz9IkW-pf0_d&ust=1667403390368000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCIif6e6njfsCFQAAAAAdAAAAABAV)](https://rishavchanda.io)
+[![MasterHead]<img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmadduckcode.com%2Fblogs%2Fstep-up-your-flutter-skills-8-best-practices&psig=AOvVaw0x6kc2__2Ihz9IkW-pf0_d&ust=1667403390368000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCIif6e6njfsCFQAAAAAdAAAAABAV)" alt="mamdouh alfarra (flutter developer)" />)]
 <h1 align="center">Hi 👋, I'm Eng.Mamdouh Alfarra</h1>
 <h3 align="center">A passionate Software Development Engineer from Palestine.</h3>
 
