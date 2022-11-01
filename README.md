@@ -12,7 +12,7 @@
 
 - 🤝 my last work **بالحلال app on google play and App store**
 
-- 👨‍💻 All of my projects are available at [https://mostaql.com/u/Mfarra_98](https://mostaql.com/u/Mfarra_98)
+- 👨‍💻 All of my real projects are private on github <!--at [https://mostaql.com/u/Mfarra_98](https://mostaql.com/u/Mfarra_98)-->
 
 - 📫 How to reach me **mam.farra2030@gmail.com**
 
