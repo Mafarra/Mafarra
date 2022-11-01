@@ -1,4 +1,4 @@
-<div style="background-image: url('![image](https://user-images.githubusercontent.com/44115392/199279105-526fa337-4908-4261-bf6d-0f40cee49f8e.png)');background-size: cover; height:480px; padding-top:80px;">
+<div style="background-image: url('https://user-images.githubusercontent.com/44115392/199279105-526fa337-4908-4261-bf6d-0f40cee49f8e.png)');background-size: cover; height:480px; padding-top:80px;">
   <img src="ImageFilePath" style="height:150px">
 </div>
 <h1 align="center">Hi 👋, I'm Eng.Mamdouh Alfarra</h1>
