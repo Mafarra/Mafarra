@@ -4,7 +4,6 @@
 <h1 align="center">Hi 👋, I'm Eng.Mamdouh Alfarra</h1>
 <h3 align="center">A passionate Software Development Engineer from Palestine.</h3>
 
-<p align="left"> <img src="https://media-exp1.licdn.com/dms/image/C5603AQHAiUSOLE4xMg/profile-displayphoto-shrink_800_800/0/1563090731752?e=1666828800&v=beta&t=ztHnRPL74fXegvmniNvSN6jTuwNBGL5mwoLvpH3QkME" alt="coding" width="200" /> </p>
 
 - 🔭 I’m currently working on **JobMe app private work**
 
