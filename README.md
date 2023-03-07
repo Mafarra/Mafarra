@@ -5,13 +5,7 @@
 <h3 align="center">A passionate Software Development Engineer from Palestine.</h3>
 
 
-- 🔭 I’m currently working on **JobMe app private work**
-
-- 👯 my last work **Sporti app on google play and App store**
-
-- 🤝 my last work **بالحلال app on google play and App store**
-
-- 👨‍💻 All of my real projects are private on github <!--at [https://mostaql.com/u/Mfarra_98](https://mostaql.com/u/Mfarra_98)-->
+Seeking a position as a Flutter developer with a reputable company where I can leverage my expertise in mobile app development and contribute to the company's growth. My goal is to utilize my skills in creating user-friendly and engaging applications, with a focus on delivering high-quality products that meet and exceed user expectations. I am committed to staying up-to-date with the latest trends and technologies in the field, and to continuously improve my skills to ensure that I can deliver the best results for the company. With my strong analytical and problem-solving skills, I am confident in my ability to develop scalable and efficient code, and to collaborate effectively with cross-functional teams.
 
 - 📫 How to reach me **mam.farra2030@gmail.com**
 
